@@ -1,6 +1,4 @@
 # open-sourced
-------
-
 A collection of open sourced projects created by me
 
 # Where do I get the files at?
