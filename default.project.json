@@ -1,0 +1,22 @@
+{
+  "name": "remains",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Util": {
+        "$path": "src/replicated/util"
+      }
+    },
+
+    "ServerScriptService": {
+      "$path": "src/server"
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/client"
+      }
+    }
+  }
+}
